@@ -14,3 +14,4 @@ pip install -r requirements.txt
 - [Github Repo: PyTorch for Deep Learning - Zero to Mastery course](https://github.com/mrdbourke/pytorch-deep-learning)
 - [Github Repo: Deep Learning super courses](https://github.com/ChristosChristofidis/awesome-deep-learning#courses)
 - [Github Repo: Deep Learning Specialization by Andrew Ng](https://github.com/Kulbear/deep-learning-coursera)
+- [Github Repo: Machine Learning and Deep Learning in Python using Scikit-Learn, PyTorch](https://github.com/ageron/handson-mlp)
